@@ -83,6 +83,11 @@ ul.skills-list li {
   color: #777;
 }
 
+a:hover {
+  text-decoration: underline;
+  color: #64bcff;
+}
+
 footer {
   background-color: #333;
   color: white;
